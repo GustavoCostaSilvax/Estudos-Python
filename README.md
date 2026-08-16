@@ -1,5 +1,3 @@
-# Estudos-Python
-Repositório dedicado ao armazenamento de rotinas, scripts e exercícios práticos em Python.
 # Estudos Python 🐍
 
 Repositório dedicado ao armazenamento de rotinas, scripts e exercícios práticos em Python desenvolvidos durante meus estudos de Ciência da Computação.
@@ -19,3 +17,4 @@ Repositório dedicado ao armazenamento de rotinas, scripts e exercícios prátic
 
 ---
 *Status: Em constante evolução!*
+
